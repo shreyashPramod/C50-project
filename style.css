@@ -1,0 +1,59 @@
+h1 {
+    color:rgb(29, 248, 0);
+} 
+* {
+  /*  border:solid; */
+}
+
+.header
+{
+    background-color:rgb(0, 255, 221);
+    display:flex;
+    justify-content:space-between;
+}
+.camel
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.chameleon
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.pigeon
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.teddy
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.panda
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.cicada
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+p
+{
+    text-align: center;
+}
